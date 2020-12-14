@@ -3,10 +3,10 @@ Módulo de Pagamento Pix QR Code Dinâmico/Copia e Cola para lojas OpenCart para
 
 #### Funcionalidades:
 - Recebimentos via QR Code Dinâmico/Copia e Cola com todos os dados da transação já implícitos (Diretamente no seu site)
-- Anexo de comprovantes (Diretamente no seu site)
-• a. Suporte para até 3 arquivos JPG,JPEG,GIF,PNG e PDF com 5MB de tamanho
-• b. Compactação de arquivos de imagem para WEBP, reduzindo em até 80% o tamanho do arquivo para armazenamento
-• c. Link seguro para visualização de comprovantes
+- Anexo de comprovantes (Diretamente no seu site)\
+• a. Suporte para até 3 arquivos JPG,JPEG,GIF,PNG e PDF com 5MB de tamanho\
+• b. Compactação de arquivos de imagem para WEBP, reduzindo em até 80% o tamanho do arquivo para armazenamento\
+• c. Link seguro para visualização de comprovantes\
 • d. Alteração de situação de pedido ao cliente anexar os comprovantes
 - A autenticação dos pagamentos deve ser feita de forma manual pela administração
 - Utiliza a SDK 1.0.0 (Mais recente) do Banco Central
