@@ -1,5 +1,5 @@
-# Módulo Pagamento Pix QR Code Dinâmico/Copia e Cola - OpenCart 2x, 3x
-Módulo de Pagamento Pix QR Code Dinâmico/Copia e Cola para lojas OpenCart para efetuar receber via Pix atendendo todas as normas de segurança do mesmo diretamente na sua loja via SDK 1.0.0 do Banco Central. Compatível com OpenCart 2.x ~ 3.x
+# Módulo Pagamento Pix QR Code Dinâmico/Copia e Cola - OpenCart 2x, 3x, 4x
+Módulo de Pagamento Pix QR Code Dinâmico/Copia e Cola para lojas OpenCart para efetuar receber via Pix atendendo todas as normas de segurança do mesmo diretamente na sua loja via SDK 1.0.0 do Banco Central. Compatível com OpenCart 2.x, 3.x, 4.x
 
 #### Funcionalidades:
 - Recebimentos via QR Code Dinâmico/Copia e Cola com todos os dados da transação já implícitos (Diretamente no seu site)
