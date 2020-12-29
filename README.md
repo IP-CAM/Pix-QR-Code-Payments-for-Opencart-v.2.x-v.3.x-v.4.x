@@ -27,6 +27,7 @@ Módulo de Pagamento Pix QR Code Dinâmico/Copia e Cola para lojas OpenCart para
 
 ##### Adquira sua licença:
 - [Módulo Pagamento Pix QR Code Dinâmico/Copia e Cola - R$ 45,90 em dev5.com.br](https://dev5.com.br/opencart/pagamentos/pix-qr-dinamico-copia-e-cola)
+- [Módulo Pagamento Pix QR Code Dinâmico/Copia e Cola - R$ 60 em mercadolivre.com.br](https://produto.mercadolivre.com.br/MLB-1740236694-pagamento-pix-qr-code-dinmicocc-opencart-2x3x4x-dev5-_JM)
 
 ##### Changelog:
 - [Registro de Alterações Módulo Pagamento Pix QR Code Dinâmico/Copia e Cola](https://dev5.com.br/opencart/pagamentos/pix-qr-dinamico-copia-e-cola#changelog)
